@@ -1,0 +1,25 @@
+@import "header";
+@import "banner";
+@import "about";
+@import "services";
+@import "choose";
+@import "team";
+@import "contact";
+@import "footer";
+@import "consultation";
+
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Jost', sans-serif;
+}
+
+body{
+    overflow-x: hidden;
+}
+
